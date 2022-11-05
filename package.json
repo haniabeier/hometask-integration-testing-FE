@@ -1,0 +1,16 @@
+{
+  "name": "hometask-integration-testing-fe",
+  "version": "1.0.0",
+  "description": "This is my first project.",
+  "main": "index.js",
+  "repository": "git@github.com:haniabeier/hometask-integration-testing-FE.git",
+  "author": "haniabeier <60842394+haniabeier@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
